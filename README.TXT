@@ -3,13 +3,13 @@ Hello!
 This program has been the work of many years.  I made it from scratch, put it down for a few years, then picked it up recently.
 
 To make custom attacks and Pokemon, visit https://www.icloud.com/numbers/03W155mAX1-wKKKLYAd_D82ig#Pokemon_Battle_Constructor_Sheet
-To view this and the other versions of this program, visit https://drive.google.com/open?id=1Qbe0RddGcF1ZNpCSQRf9EUeGU_9bYYJ4
+To view this and the other versions of this program, visit https://github.com/2br-2b/Pokemon-Battle-Program
 
 Changelog:
 
  5.2:
     Added custom Pokemon maker
-    Added Chuck Norris.  'Nuff said.
+    Added more premade Pokemon
 
  5.1:
     10/24/2018
@@ -41,7 +41,7 @@ Changelog:
  4.0:
    10/1/2018
    Finished changes from 3.5
-   Added "Murder" as a premade Pokemon for p1
+   Added premade Pokemon
  
  3.5:
    9/19/2018 - 9/24/2018
@@ -51,7 +51,7 @@ Changelog:
    9/17/2018
    Made stat changes accurate
    Stopped the computer from sometimes saying "But it missed!" twice
-   Added viewStats(Pokemon) function
+   Added viewStats (Pokemon) function
    Randomized the level between 85 and 100
  
  3.3:
@@ -65,10 +65,7 @@ Changelog:
    Modified Attack programs to work given any two Pokemon
    Added default names used during testing
    Made stats semi-dependant on level
-   Added 3 easter eggs:
-      If p1 enters his name as "ee", they will have a special move/stat set
-      If p2 enters his name as "Lose!", they will have a special move/stat set
-      The attack Celebrate is an easter egg
+   Added premade Pokemon
  
  3.1:
    9/10/2018
@@ -105,7 +102,7 @@ Changelog:
    
    
  TODO:
-   Make it say "But it missed!" sometime
+   Make it say "But it missed!" sometimes
    
    
 
@@ -114,5 +111,4 @@ Add attacks:
    Rest
    Flame wheel
 
-If you make or suggest any changes, I will be sure to give you an @author tag where you helped
 Contact me at https://goo.gl/forms/5QA490MQboBVw35F2 for any feedback!
