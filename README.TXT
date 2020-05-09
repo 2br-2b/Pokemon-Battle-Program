@@ -1,6 +1,6 @@
 Hello!
 
-This program has been the work of many years.  I made it from scratch, put it down for a few years, then picked it up recently.
+This program has been the work of many years.  I made it from scratch, put it down for a few years, then picked it up and modified it a little. This was made when I did not care so much about documentation, so unfortunately, this is relatively undocumented. I did document the individual functions, and much of the code is self-documenting.
 
 To make custom attacks and Pokemon, visit https://www.icloud.com/numbers/03W155mAX1-wKKKLYAd_D82ig#Pokemon_Battle_Constructor_Sheet
 To view this and the other versions of this program, visit https://github.com/2br-2b/Pokemon-Battle-Program
@@ -106,9 +106,9 @@ Changelog:
    
    
 
-Add attacks:
+Attacks to add:
    Sleep talk
    Rest
    Flame wheel
 
-Contact me at https://goo.gl/forms/5QA490MQboBVw35F2 for any feedback!
+Start a new issue if you have any questions!
