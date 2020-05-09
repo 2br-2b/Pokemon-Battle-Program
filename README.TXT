@@ -5,6 +5,8 @@ This program has been the work of many years.  I made it from scratch, put it do
 To make custom attacks and Pokemon, visit https://www.icloud.com/numbers/03W155mAX1-wKKKLYAd_D82ig#Pokemon_Battle_Constructor_Sheet
 To view this and the other versions of this program, visit https://github.com/2br-2b/Pokemon-Battle-Program
 
+To run the program, run the main method in Battle.java
+
 Changelog:
 
  5.2:
